@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color:white;
+}
+canvas{
+    width: 50vw;
+    max-width: 400px;
+    height: 50vw;
+    max-height: 400px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15%;
+}
