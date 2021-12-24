@@ -6,4 +6,4 @@ Projeto utilizando o canvas do HTML
     <img alt="Este é um Gif mostrando a bola batendo na parede e voltando" src="readme/square.gif">
 </h1>
 
-#### *Era uma bola, porém troquei pelo quadrado
+#### *Era uma bola, porém troquei pelo quadrado que muda de cores ao bater na parede
