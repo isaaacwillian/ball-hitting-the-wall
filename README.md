@@ -8,3 +8,5 @@ Projeto utilizando o canvas do HTML
 </h1>
 
 #### *Era uma bola, porém troquei pelo quadrado que muda de cores ao bater na parede
+
+Made with ❤️ by: Isaac Willian 
